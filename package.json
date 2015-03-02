@@ -1,0 +1,16 @@
+{
+  "name": "gulp-insomniac-microsites",
+  "version": "1.0.0",
+  "description": "Easily deploy Insomniac's microsites using S3",
+  "license": "GNU GPL v2.0",
+  "author": {
+    "name": "Kamil Ogórek",
+    "email": "kamil.ogorek@gmail.com",
+    "url": "http://kamilogorek.pl"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamilogorek/gulp-insomniac-microsites.git"
+  }
+}
